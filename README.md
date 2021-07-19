@@ -5,4 +5,13 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
   3.Model Validation
   4.Underfitting and Overfitting
   5.Random Forests
+ 
+ 
+# Intermediate Machine Learning-
+   1.Missing Values
+   2.Categorical Variables
+   3.Pipelines
+   4.Cross-Validation
+   5.XGBoost
+   6.Data Leakage
   
